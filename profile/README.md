@@ -14,7 +14,6 @@ We build research prototypes and developer tools for privacy-preserving AI syste
 - Privacy-preserving AI and data analytics
 - Federated learning systems and tooling
 - Trustworthy AI workflows
-- Secure and accountable software infrastructure
 
 ## Contact
 
