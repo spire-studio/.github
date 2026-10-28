@@ -7,17 +7,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spire-studio/.github/main/profile/assets/map-dark.svg">
-  <img alt="Research map: data, capability, and action collaboration; controllable and traceable; foundations and evidence" src="https://raw.githubusercontent.com/spire-studio/.github/main/profile/assets/map-light.svg" width="100%">
+  <img alt="Research map: data, capability, and action collaboration; controllable and traceable; foundations" src="https://raw.githubusercontent.com/spire-studio/.github/main/profile/assets/map-light.svg" width="100%">
 </picture>
 
 ## Projects
 
 | Project | Layer | What it does |
 | :-- | :-- | :-- |
+| **[Figaro](https://github.com/spire-studio/figaro)**<br>![stars](https://img.shields.io/github/stars/spire-studio/figaro?style=flat-square&logo=github&label=stars&color=215F9A) | 🟣&nbsp;data | Federated learning experiments from natural language: an agent plans, runs, and compares reproducible runs. |
+| **[FedArena](https://github.com/spire-studio/fedarena)**<br>![stars](https://img.shields.io/github/stars/spire-studio/fedarena?style=flat-square&logo=github&label=stars&color=215F9A) | 🟣&nbsp;data | Attack/defense arena for federated learning: submit a method by prompt or code, benchmark it against baselines, rank it. |
 | **[CloakBot](https://github.com/spire-studio/cloakbot)**<br>![stars](https://img.shields.io/github/stars/spire-studio/cloakbot?style=flat-square&logo=github&label=stars&color=215F9A) | 🟠&nbsp;capability | Local privacy kernel for frontier LLMs. A local Gemma&nbsp;4 model sanitizes text, images, and documents before any request leaves your machine; values are restored locally. |
 | **[PyFE4AI](https://github.com/spire-studio/pyfe4ai)**<br>![release](https://img.shields.io/github/v/release/spire-studio/pyfe4ai?style=flat-square&color=1fb5a3) | 🟢&nbsp;foundations | Functional encryption for trustworthy AI: 42 inner-product and quadratic schemes, adapters for federated aggregation and encrypted inference. |
-| **[FedArena](https://github.com/spire-studio/fedarena)**<br>![stars](https://img.shields.io/github/stars/spire-studio/fedarena?style=flat-square&logo=github&label=stars&color=215F9A) | 🔵&nbsp;evidence | Attack/defense arena for federated learning: submit a method by prompt or code, benchmark it against baselines, rank it. |
-| **[Figaro](https://github.com/spire-studio/figaro)**<br>![stars](https://img.shields.io/github/stars/spire-studio/figaro?style=flat-square&logo=github&label=stars&color=215F9A) | 🟣&nbsp;data | Federated learning experiments from natural language: an agent plans, runs, and compares reproducible runs. |
 
 <details>
 <summary><b>Research directions</b></summary>
